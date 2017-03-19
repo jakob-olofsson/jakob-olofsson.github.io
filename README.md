@@ -1,1 +1,1 @@
-https://jakob-olofsson.github.io/scratch/
+https://jakob-olofsson.github.io
